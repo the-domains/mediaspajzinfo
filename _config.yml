@@ -1,0 +1,26 @@
+typography_spectrum: 0.6438209058251232
+color:
+  brandStrength: 0.10400447947904468
+  lightness: 0.36755480407737195
+  saturation: 0.022025770507752895
+  rhythmicContrast: 0.09346442390233278
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+github: true
+layout_spectrum: 0.494435336207971
+name: mediaspajz.info
+navigation:
+  - name: 'keresés '
+    url: 'http://mediaspajz.info'
+    type: external
+title: Médiaspájz
+content: []
+description: a hírek már a spájzban vannak…
+purpose:
+  - type: contact
+    url: 'mailto:hello@mediaspajz.info'
+    label: írj nekünk
