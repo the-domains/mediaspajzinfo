@@ -1,17 +1,17 @@
-typography_spectrum: 0.6438209058251232
+layout_spectrum: 0.20365229545502306
+typography_spectrum: 0.9818304599619627
 color:
-  brandStrength: 0.10400447947904468
-  lightness: 0.36755480407737195
-  saturation: 0.022025770507752895
-  rhythmicContrast: 0.09346442390233278
+  brandStrength: 0.5607049033307646
+  lightness: 0.5862714339681153
+  saturation: 0.48495416376656747
+  rhythmicContrast: 0.7679964482211646
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 github: true
-layout_spectrum: 0.494435336207971
 name: mediaspajz.info
 navigation:
   - name: 'keresés '
