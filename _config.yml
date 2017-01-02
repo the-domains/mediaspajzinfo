@@ -1,16 +1,16 @@
-layout_spectrum: 0.20365229545502306
-typography_spectrum: 0.9818304599619627
+layout_spectrum: 0.7369512641818106
+typography_spectrum: 0.554363143931853
 color:
-  brandStrength: 0.5607049033307646
-  lightness: 0.5862714339681153
-  saturation: 0.48495416376656747
-  rhythmicContrast: 0.7679964482211646
+  brandStrength: 0.4954701573980769
+  lightness: 0.2520180091280306
+  saturation: 0.8372669027474625
+  rhythmicContrast: 0.3097516441169093
   brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
+    - '#1C67AA'
+    - '#FFFFFF'
+    - '#B4D2E6'
+    - '#364860'
+    - '#88B4D9'
 github: true
 name: mediaspajz.info
 navigation:
